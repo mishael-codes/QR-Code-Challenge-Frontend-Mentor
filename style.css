@@ -33,7 +33,7 @@ body {
   margin-bottom: 20px;
 }
 
-h2 {
+h3 {
   width: 100%;
   color: hsl(218, 44%, 22%);
   font-weight: 700;
@@ -46,4 +46,14 @@ p {
   color: hsl(220, 15%, 55%);
   width: 88%;
   margin: 0 auto;
+}
+
+.attribution {
+   font-size: 11px;
+  text-align: center;
+  color: black;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
