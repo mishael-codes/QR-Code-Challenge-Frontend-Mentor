@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  width: 338px;
+  width: 310px;
   height: fit-content;
   text-align: center;
   background-color: #fff;
@@ -48,8 +48,8 @@ p {
   margin: 0 auto;
 }
 
-.attribution {
-   font-size: 11px;
+.attribution p{
+  font-size: 11px;
   text-align: center;
   color: black;
 }
